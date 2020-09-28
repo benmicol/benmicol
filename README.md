@@ -1,4 +1,5 @@
-### Hi there 👋
+### Ben Micol - Web Devloper
+<p> Welcome to my GitHub page!</p>
 
 <!--
 **benmicol/benmicol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
