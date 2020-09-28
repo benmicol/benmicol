@@ -2,8 +2,12 @@
 <p> Welcome to my GitHub page!</p>
 
 #### 🔭 I’m currently working on ...
+* Building useful new projects to make the web a better place!
 #### 🌱 I’m currently learning ...
+* Tailwind CSS
+* Node.js
 #### 📫 How to reach me: ...
+* [LinkedIn](https://linkedin.com/in/benmicol)
 <!--
 **benmicol/benmicol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
